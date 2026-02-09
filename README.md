@@ -48,7 +48,7 @@ Core Components:
 
 Clone the repository:
 
-git clone [https://github.com/digitalguidance0-star/PromptStitch.git](https://github.com/digitalguidance0-star/-PromptStitch.git)
+git clone [https://github.com/digitalguidance0-star/PromptStitch.git](https://github.com/digitalguidance0-star/PromptStitch.git)
 
 Install dependencies:
 
