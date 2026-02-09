@@ -70,7 +70,7 @@ context_data: "A clockwork city in the clouds."
 
 ## 📜 License
 
-© 2024 ®TSCREATES. All rights reserved. ™PromptStitch is a trademark of ®TSCREATES.
+© 2026 ®TSCREATES. All rights reserved. ™PromptStitch is a trademark of ®TSCREATES.
 
 ---
 
@@ -78,3 +78,4 @@ context_data: "A clockwork city in the clouds."
 
 Contributions are welcome! Please ensure that any new expansion hooks follow the strict typing defined in the InputSchema.
 # -PromptStitch
+
