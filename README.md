@@ -48,7 +48,7 @@ Core Components:
 
 Clone the repository:
 
-git clone [https://github.com/digitalguidance0-star/PromptStitch.git](https://github.com/digitalguidance0-star/PromptStitch.git)
+git clone [https://github.com/digitalguidance0-star/PromptStitch.git](https://github.com/digitalguidance0-star/-PromptStitch.git)
 
 Install dependencies:
 
@@ -78,4 +78,5 @@ context_data: "A clockwork city in the clouds."
 
 Contributions are welcome! Please ensure that any new expansion hooks follow the strict typing defined in the InputSchema.
 # -PromptStitch
+
 
